@@ -54,3 +54,53 @@
 * Maybe similar
 * Batching may reduce the amount of total time required.
 * Can help you get that shallow (sorry) sense of accomplishment.
+
+## Task jar
+
+* I don't know what this is.
+
+## Strike when you are hot
+
+* Do important things when you are at your best...
+* Something like morning/night person
+* It could help you if you knew when that time is so that you can schedule
+  important tasks then.
+
+## Feedback loop
+
+* Uncertainty in the duration the task will take because it depends on things
+  you haven't done yet.
+* Something like _just start_ or _seek clarification_
+* The more you do a task, the better you know about the task (or worse)
+* Keep track and keey updating your goals on a feedback loop.
+
+## Prioritize
+
+* Do you even need to write this.
+* Deadlines, need best order of tasks.
+* May not be able to complete all tasks, so need to drop a few.
+* But what if you prioritize incorrectly.
+
+## Delegate
+
+* Why not to delegate:
+    - People may resent you for dumping your work on them.
+    - You risk them not completing the task in time or adequately.
+    - Need to spend time on explaining the task to them
+* Why to:
+    - Others may be able to perform the task equal or better than you.
+    - You might have to drop other tasks if not
+
+## Drop unimportant tasks
+
+* Why not to:
+    - How do you know it's unimportant
+    - A seemingly unimportant task may be a test to see if you can handle more
+      important tasks
+* So always try to do everything before you drop due to exhaustion.
+
+## Good enough
+
+* Does everything need to be perfect? Yes, yes it does. But should you need to
+  trade between completing all tasks and completing some but perfectly, which
+  would you choose?
