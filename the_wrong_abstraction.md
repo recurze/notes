@@ -31,3 +31,4 @@
       scrutinized.
 * Prev disc: https://news.ycombinator.com/item?id=17578714
     - Optimize code to reduce State > Coupling > Complexity > Duplication
+* https://www.youtube.com/watch?v=8bZh5LMaSmE
